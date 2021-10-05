@@ -1,2 +1,4 @@
-# algorithm-thinking
-My code studies from the book Algorithm Thinking - A Problem Based Introduction by Daniel Zingaro
+# Algorithmic Thinking - A Problem Based Introduction
+
+## Exercises
+https://www.danielzingaro.com/alg//menu/exercises.html
